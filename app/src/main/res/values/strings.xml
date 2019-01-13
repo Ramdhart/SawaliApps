@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">BPJS Kesehatan QnA</string>
+    <string-array name="question_jkn">
+        <item>Bagaimana Prosedur Pendaftaran peserta JKN secara umum?</item>
+        <item>Bagaimana jika pekerja ingin mengikutsertakan anak ke-4 dan seterusnya, orang tua, mertua dan kerabat lainnya?</item>
+        <item>Bagaimana ketentuan pembayaran iuran JKN setiap bulannya?</item>
+        <item>Manfaat apa saja yang diperoleh bagi peserta JKN?</item>
+        <item>Bagaimana prosedur pelayanan kesehatan?</item>
+        <item>Pelayanan kesehatan yang dijamin dalam program JKN?</item>
+        <item>Apakah program JKN juga menjamin pembiayaan alat-alat kesehatan?</item>
+    </string-array>
+
+    <string name="jkn1">Bagaimana Prosedur Pendaftaran peserta JKN secara umum?</string>
+    <string name="jkn2">Bagaimana jika pekerja ingin mengikutsertakan anak ke-4 dan seterusnya, orang tua, mertua dan kerabat lainnya?</string>
+    <string name="jkn3">Bagaimana ketentuan pembayaran iuran JKN setiap bulannya?</string>
+    <string name="jkn4">Manfaat apa saja yang diperoleh bagi peserta JKN?</string>
+    <string name="jkn5">Bagaimana prosedur pelayanan kesehatan?</string>
+    <string name="jkn6">Pelayanan kesehatan yang dijamin dalam program JKN?</string>
+    <string name="jkn7">Apakah program JKN juga menjamin pembiayaan alat-alat kesehatan?</string>
+
+    <string-array name="jjkn1">
+        <item>1.Calon peserta mendaftar secara perorangan di Kantor BPJS Kesehatan</item>
+        <item>2.Mengisi formulir Daftar Isian Peserta (DIP) dengan melampirkan Fotokopi Kartu Keluarga (KK), Fotokopi KTP/Paspor, dan Pasfoto 3 x 4 sebanyak 1 lembar. Untuk anggota keluarga menunjukkan Kartu Keluarga/Surat Nikah/Akte Kelahiran.</item>
+        <item>3.Setelah mendaftar, calon peserta memperoleh Nomor Virtual Account (VA)</item>
+        <item>4.Melakukan pembayaran iuran ke Bank yang bekerja sama (BRI/Mandiri/BNI)</item>
+        <item>5.Bukti pembayaran iuran diserahkan ke kantor BPJS Kesehatan untuk dicetakkan kartu JKN.</item>
+    </string-array>
+    <string name="jjkn2"> Penambahan anggota keluarga yang meliputi anak ke-4, dan seterusnya, orang tua dan mertua, dikenakan tambahan iuran sebesar 1% dari gaji/upah untuk setiap orang anggota tambahan.
+•Penambahan kerabat lainnya seperti kakak, adik, paman, bibi, asisten rumah tangga, driver dan lain-lain, dengan membayar iuran secara nominal sesuai kelas perawatan yang dipilih, yaitu:
+•Kelas I Rp.59.500,-/orang/bulan
+•Kelas II Rp.42.500 /orang/bulan
+•Kelas III Rp. 25.500,-/ orang/bulan</string>
+    <string name="jjkn3">Peserta JKN (Pekerja Penerima Upah/PPU, Pekerja Bukan Penerima Upah/PBPU dan Bukan Pekerja) wajib membayar iuran ke BPJS Kesehatan paling lambat tanggal 10 setiap bulan. Apabila tanggal 10 jatuh pada hari libur, maka iuran dibayarkan pada hari kerja berikutnya.</string>
+    <string name="jjkn4"> Pelayanan yang diberikan secara menyeluruh (komprehensif) baik peningkatan kesehatan (promotif), pencegahan penyakit (preventif), pengobatan penyakit (kuratif) serta pemulihan kesehatan (rehabilitatif)
+•Pelayanan kesehatan dijamin sesuai indikasi medis, baik di rawat jalan tingkat pertama oleh dokter umum baik di Puskesmas/dokter praktek/klinik maupun dirawat jalan tingkat lanjut dan rawat inap oleh dokter spesialis di Rumah Sakit yang bekerjasama dengan BPJS Kesehatan. Termasuk pelayanan obat, penunjang diagnostik, dan tindakan operatif.
+</string>
+    <string name="jjkn5">Apabila peserta sakit maka akan dilayani terlebih dahulu di fasilitas kesehatan tingkat pertama (Puskesmas/dokter praktek/klinik)sesuai pilihan peserta yang terdapat dalam kartu /e-ID JKN BPJS Kesehatan
+•Apabila diperlukan tindakan spesialistik sesuai indikasi medis akan dirujuk ke Poli Spesialistik di Rumah Sakit yang bekerjasama dengan BPJS Kesehatan termasuk rawat inap.
+•Apabila dalam keadaan gawat darurat peserta dapat langsung ke unit gawat darurat di Rumah Sakit tanpa melalui rujukan.</string>
+
+
+    <string-array name="jjkn6">
+        <item>a.Administrasi pelayanan</item>
+        <item>b.Pelayanan promotif dan preventif</item>
+        <item>c.Pemeriksaan, pengobatan, dan konsultasi medis;</item>
+        <item>d.Tindakan medis non spesialistik, baik operatif maupun non operatif</item>
+        <item>e.Pelayanan obat dan bahan medis habis pakai</item>
+        <item>f.Transfusi darah sesuai dengan kebutuhan medis</item>
+        <item>g.Pemeriksaan penunjang diagnostik laboratorium tingkat pratama</item>
+        <item>h.Rawat inap tingkat pertama sesuai dengan indikasi medis</item>
+
+    </string-array>
+
+    <string name="jjkn7">BPJS Kesehatan menanggung pembiayaan alat-alat kesehatan sesuai ketentuan yang berlaku. Berikut dafatr alat-alat kesehatan yang ditanggung dalam program JKN*:</string>
+
+    <string name="lyn1">Apa itu PBI(Penerima Bantuan Iuran)?</string>
+    <string name="lyn2">Apa Keuntungan PBI?</string>
+    <string name="lyn3">Bagaimana Iuran Untuk Pengguna PBI?</string>
+    <string name="lyn4">Bagaimana Pendaftaran untuk Pengguna PBI?</string>
+    <string name="lyn5">Apa Itu Layanan Non PBI?</string>
+    <string name="lyn6">Siapa Saja Pengguna Layanan Non PBI?</string>
+    <string name="lyn7">Bagaimana Perbedaan BPJS PBI Dan Non PBI?</string>
+
+
+    <string-array name="ques_lyn">
+        <item>Apa itu PBI(Penerima Bantuan Iuran)?</item>
+        <item>Apa Keuntungan PBI?</item>
+        <item>Bagaimana Iuran Untuk Pengguna PBI?</item>
+        <item>Bagaimana Pendaftaran untuk Pengguna PBI?</item>
+        <item>Apa Itu Layanan Non PBI?</item>
+        <item>Siapa Saja Pengguna Layanan Non PBI?</item>
+        <item>Bagaimana Perbedaan BPJS PBI Dan Non PBI?</item>
+    </string-array>
+
+    <string name="jlyn1">Penerima Bantuan Iuran Jaminan Kesehatan (PBI) : fakir miskin dan orang tidak mampu, dengan penetapan peserta sesuai ketentuan peraturan perundang- undangan.</string>
+    <string-array name="jlyn2">
+        <item>1.PBI yaitu Pekerja Bukan Penerima Upah dan Bukan Pekerja : Peserta dapat mengikutsertakan anggota keluarga yang diinginkan (tidak terbatas). </item>
+        <item>2.Peserta dapat mengikutsertakan anggota keluarga tambahan, yang meliputi anak ke-4 dan seterusnya, ayah, ibu dan mertua.</item>
+        <item>3.Peserta dapat mengikutsertakan anggota keluarga tambahan, yang meliputi kerabat lain seperti Saudara kandung/ipar, asisten rumah tangga, dll.</item>
+    </string-array>
+    <string name="jlyn3">Bagi peserta Penerima Bantun Iuran (PBI) Jaminan Kesehatan iuran dibayar oleh Pemerintah</string>
+    <string name="jlyn4">Pendataan Fakir Miskin dan Orang Tidak mampu yang menjadi peserta PBI dilakukan oleh lembaga yang menyelenggarakan urusan Pemerintahan di bidang statistik (Badan Pusat Statistik) yang diverifikasi dan divalidasi oleh Kementerian Sosial.
+Selain peserta PBI yang ditetapkan oleh Pemerintah Pusat, juga terdapat penduduk yang didaftarkan oleh Pemerintah Daerah berdasarkan SK Gubernur/Bupati/Walikota bagi Pemda yang mengintegrasikan program Jamkesda ke program JKN.
+</string>
+    <string name="jlyn5">iuran bulanannya harus dibayar oleh sendiri walaupun untuk peserta bpjs non pbi dari golongan Pekerja penerima upah iurannya ditanggung sebagian oleh perusahaan</string>
+    <string-array name="jlyn6">
+        <item>1.Pegawai Negeri Sipil</item>
+        <item>2.Anggota TNI</item>
+        <item>3.Anggota Polri</item>
+        <item>4.Pejabat Negara</item>
+        <item>5.Pegawai Pemerintan non Pegawai Negeri</item>
+        <item>6.Pegawai Swasta</item>
+        <item>7.Pekerja yang tidak termasuk huruf a sd f yang menerima Upah.
+           Termasuk WNA yang bekerja di Indonesia paling singkat 6 (enam) bulan.</item>
+    </string-array>
+    <string name="jlyn7">Berikut adalah perbedaan peserta BPJS PBI dan Non PBI:</string>
+    <string-array name="jlyn72">
+        <item>1.Peserta BPJS PBI hanya untuk warga miskin dan kurang mampu menurut data dinas sosial sedangkan peserta BPJS PBI untuk warga mampu yang meliputi pekerja bukan penerima upah (PBPU), bukan pekerja (BP) seperti Pemilik perusahaan dll, dan juga pekerja penerima upah (PPU)</item>
+        <item>2.Peserta BPJS PBI hanya berhak atas bpjs kelas 3, sedangkan untuk non PBI berhak atas kelas 1, kelas 2 dan kelas 3. </item>
+        <item>3.Peserta BPJS PBI hanya dapat berobat di faskes tingkat 1 puskesmas kelurahan atau desa, sedangkan peserta BPJS Non PBI dapat memilih fasilitas kesehatan yang telah ditentukan dan sudah bekerjasama dengan bpjs sesuai dengan area domisili.</item>
+        <item>4.Peserta BPJS PBI iuran bulanannya ditanggung oleh pemerintah, jadi tidak perlu membayar iuran sendiri, sedangkan peserta BPJS non PBI iuran bulanannya harus dibayar oleh sendiri walaupun untuk peserta bpjs non pbi dari golongan Pekerja penerima upah iurannya ditanggung sebagian oleh perusahaan.</item>
+        <item>5.Peserta BPJS PBI dan non pbi yang mengambil kelas 3 tidak bisa naik kelas ketika di rawat, sedangkan untuk peserta BPJS non PBI yang khusus mengambil kelas I dan 2 bisa naik kelas perawatan apabila kondisi kamar yang menjadi haknya di rumah sakit penuh.</item>
+        <item>6.Peserta BPJS PBI dan Non PBI yang mengambil kelas 3 tidak perlu memiliki rekening bank, sedangkan untuk peserta Non PBI mandiri yang mengambil kelas 1 dan 2 harus memiliki rekening bank ketika mendaftar.</item>
+        <item>7.Untuk menjadi peserta BPJS PBI dan berhenti menjadi peserta bpjs pbi hanya dapat direkomendasikan oleh data rekonsiliasi dari kementrian sosial atas referensi dari dinas sosial setempat, jika sesuai dengan kategori miskin dan kurang mampu maka peserta akan didaftarkan menjadi peserta bpjs pbi, sedangkan untuk peserta non PBI dapat mendaftarkan diri secara pribadi baik melalui perusahaan tempat bekerja atau datang langsung ke kantor bpjs jika ingin menjadi peserta mandiri.</item>
+    </string-array>
+
+    <string-array name="ques_kis">
+        <item>Apa itu KIS (Kartu Indonesia Sehat)?</item>
+        <item>Apa perbedaan antara Kartu Indonesia Sehat (KIS) dan BPJS Kesehatan?</item>
+        <item>Bagaimana Prosedure Penggunaan Kartu KIS Atau JKN?</item>
+    </string-array>
+
+    <string name="kis1">Apa itu KIS (Kartu Indonesia Sehat)?</string>
+    <string name="kis2">Apa perbedaan antara Kartu Indonesia Sehat (KIS) dan BPJS Kesehatan?</string>
+    <string name="kis3">Bagaimana Prosedure Penggunaan Kartu KIS Atau JKN?</string>
+    <string name="jkis1">KIS berfungsi sebagai kartu jaminan kesehatan, yang dapat digunakan untuk mendapatkan layanan kesehatan gratis di fasilitas kesehatan tingkat pertama dan tingkat lanjutan, sesuai dengan kondisi penyakit yang diderita penerima KIS. KIS merupakan perluasan dari program Jaminan Kesehatan Nasional yang diluncurkan pemerintah sebelumnya</string>
+    <string name="jkis2">Kartu Indonesia Sehat (KIS) adalah Nama untuk Program Jaminan Kesehatan SJSN (JKN) bagi penduduk Indonesia, khususnya fakir miskin dan tidak mampu serta iurannya dibayarkan oleh pemerintah. BPJS Kesehatan adalah Badan Hukum Publik yang dibentuk untuk menyelenggarakan program Jaminan Kesehatan SJSN (JKN). Jadi, KIS adalah program sementara BPJS Kesehatan adalah badan yang ditugaskan untuk menjalankan program tersebut.</string>
+    <string name="jkis31">Kondisi Pertama</string>
+    <string-array name="jkis311">
+        <item>1)Datang ke fasilitas kesehatan (faskes) tingkat pertama (puskesmas, klinik pratama, atau dokter praktik perorangan yang bekerja sama dengan BPJS Kesehatan) yang sesuai dengan pada kartu BPJS Kesehatan.</item>
+        <item>2)Pasien diperiksa di faskes tingkat pertama. Apabila menurut dokter perlu langkah berikutnya, akan dirujuk ke faskes rujukan tingkat lanjutan (rumah sakit).</item>
+        <item>3)Di rumah sakit, pasien harus kembali menunjukkan kartu BPJS Kesehatan.</item>
+        <item>4)Pasien bisa saja mendapatkan pelayanan rawat jalan dan/atau rawat inap di RS jika dirujuk oleh dokter yang memeriksa.</item>
+        <item>5)Ada tiga kelas dalam kepesertaan Jaminan Kesehatan Nasional, maka kelas saat rawat inap disesuaikan. Jika tak dapat menunjukkan nomor kepesertaan, pasien dirawat dengan tarif pasien umum.</item>
+        <item>6)Dokter bisa saja memberikan surat rujuk balik, sehingga pelayanan kesehatan kembali ke faskes tingkat pertama.</item>
+        <item>7)Jika dokter di RS tak memberikan surat keterangan kontrol, pemeriksaan selanjutnya kembali ke faskes tingkat pertama.</item>
+    </string-array>
+    <string name="jkis32">Kondisi Kedua</string>
+    <string-array name="jkis322">
+        <item>1)Pasien bisa langsung ke IGD di rumah sakit dalam kondisi darurat.</item>
+        <item>2)Pasien (atau yang mendampingi) harus menunjukkan kartu BPJS Kesehatan berupa fisik atau digital di aplikasi Mobile JKN. Jika tidak, akan dimasukkan ke tarif pasien umum.</item>
+        <item>3)	Pasien bisa mendapatkan pelayanan rawat jalan dan/atau rawat inap sesuai indikasi kesehatan.</item>
+    </string-array>
+
+    <string-array name="quis_kete">
+        <item>Ada Berapa Jenis Dalam Program BPJS Ketenagakerjaan?</item>
+        <item>Bagaimana Prosedure Kepesertaan BPJS Ketenagakerjaan?</item>
+        <item>Bagimana Proses Pelaporan Kecelakaan Saat Bekerja?</item>
+        <item>Bagaimana Proses Klaim Kecelakaan Kerja?</item>
+        <item>Bagaimana Alur Pengajuan Klaim Kecelakaan Ketenagakerjaan?</item>
+        <item>Bagaimana Alur Kecelakaan Kerja?</item>
+    </string-array>
+
+    <string name="kete1">Ada Berapa Jenis Dalam Program BPJS Ketenagakerjaan?</string>
+    <string name="kete2">Bagaimana Prosedure Kepesertaan BPJS Ketenagakerjaan?</string>
+    <string name="kete3">Bagimana Proses Pelaporan Kecelakaan Saat Bekerja?</string>
+    <string name="kete4">Bagaimana Proses Klaim Kecelakaan Kerja?</string>
+    <string name="kete5">Bagaimana Alur Pengajuan Klaim Kecelakaan Ketenagakerjaan?</string>
+    <string name="kete6">Bagaimana Alur Kecelakaan Kerja?</string>
+
+    <string-array name="jkete1">
+    <item>1.Pekerja Penerima Upah (PU) adalah Setiap orang yang bekerja dengan menerima gaji, upah, atau imbalan dalam bentuk lain dari pemberi kerja</item>
+    <item>2.Pekerja Bukan Penerima Upah (BPU) adalah pekerja yang melakukan kegiatan atau usaha ekonomi secara mandiri untuk memperoleh penghasilan dari kegiatan atau usahanya</item>
+    <item>3.Jasa Konstruksi adalah layanan jasa konsultasi perencanaan pekerjaan konstruksi, layanan jasa pelaksanaan pekerjaan konstruksi dan layanan konsultasi pengawasan pekerjaan konstruksi</item>
+    <item>4.Pekerja Migran Indonesia adalah setiap warga negara Indonesia yang akan, sedang, atau telah melakukan pekerjaan dengan menerima upah di luar wilayah Republik Indonesia</item>
+
+
+</string-array>
+    
+    <string name="jkete2">Setiap pasien harus menunjukkan Kartu Peserta BPJS dan KTP/SIM, apabila tidak dapat menunjukkannya, maka berlaku sebagai pasien umum (bayar sendiri) dan diklaimkan ke BPJS TK dengan mekanisme reimbursed.
+
+Ruang lingkup JKK :
+●	Kecelakaan yang terjadi :
+1)	Berangkat kerja s/d tibakembali di rumah
+2)	Mendapat perintah dari perusahaan/majikan
+3)	Berkaitan dengan kepentingan perusahaan/majikan
+●	Menderita penyakit akibat kerja dengan kriteria
+1)	Mendapatperintah dari perusahaan/majikan
+2)	Berkaitan dengan kepentingan perusahaan/majikan
+</string>
+    
+    <string-array name="jkete3">
+        <item>1.Datang langsung, Tahap I/KK2, KPJ, KTP dan absensi saat kejadian</item>
+        <item>2.via fax ke 0271-716261(Tahap I/KK2, KPJ, KTP dan absensi saat kejadian)atau</item>
+        <item>3.via sms BPJS TK dengan nomor 081229834567 dengan format : Nama TK#nomor kartu BPJS TK#nama perusahaan#uraian kecelakaan#tanggal kecelakaan(dd/mm/yy)#jam kecelakaan#nama pelapor. Laporan awal maksimal 2 x 24 jam dari tanggal kejadian </item>
+        <item>4.Kelengkapan Laporan Kecelakaan kerja awal sbb:
+●	Lembar warna biru Laporan Kecelakaan Kerja Tahap I (yang sudah disahkan disnaker) JKK TAHAP I.pdf
+●	Fc Kartu BPJS TK
+●	Fc KTP/ SIM
+●	Absensi saat kejadian
+Diserahkan ke BPJS TK paling lambat 1 minggu dari tanggal kejadian. Akan diberikan Tanda terima Jaminan Kecelakaan Kerja Tahap I sebagai bukti penyerahan berkas awal Tanda Terima JKK Tahap I
+</item>
+
+    </string-array>
+
+    <string-array name="jkete4">
+        <item>1.Setelah pasien sembuh, Dokter RS TC mengisi Keterangan Perawatan (KK4) JKK KK4.pdf</item>
+        <item>2.RS memberikan informasi kepada perusahaan untuk mengirimkan:
+a.	Laporan Kecelakaan Tahap II (sudah disahkan disnaker) JKK TAHAP II.pdf
+b.	Absensi karyawan s/d karyawan masuk kembali
+c.	Fc Tanda Terima JKK tahap I
+</item>
+        <item>3.RS TC menyerahkan berkas tagihan yang telah selesai perawatan/ dinyatakan sembuh ke BPJS TK sebelum tanggal 10 setiap bulannya.</item>
+
+    </string-array>
+
+
+
+
+
+
+
+    
+</resources>

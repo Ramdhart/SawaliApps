@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464295504009",
+    "firebase_url": "https://sawali.firebaseio.com",
+    "project_id": "sawali",
+    "storage_bucket": "sawali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464295504009:android:a6867dcc36804eef",
+        "android_client_info": {
+          "package_name": "com.jxj.sawaliapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464295504009-kbnndofic4o2het2nj9k2l5a3qcuqhtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALneGAiTAqLBD4wFy6TsKXlTedWfGIaxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

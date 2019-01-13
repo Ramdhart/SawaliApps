@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:padding="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:src="@drawable/ueu"
+            android:id="@+id/logo"
+            android:padding="2dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/logo"
+            android:textSize="17sp"
+            android:text="SELAMAT DATANG DI APLIKASI"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:textStyle="bold"
+            android:id="@+id/title1"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title1"
+            android:layout_marginTop="15dp"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:text="Knowledge Aplication Mobile Layanan Dan Prosedur Klaim BPJS Kesehatan"
+            android:textColor="#000000"
+            android:id="@+id/nama"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Team"
+            android:layout_below="@id/nama"
+            android:layout_marginTop="15dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/team"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sawali Wahyu - 20170804011"
+            android:layout_below="@id/team"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/sawal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Herman Suherman - 20170804003"
+            android:layout_below="@id/sawal"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/suherman"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sigit Purwoharjo - 20170804006"
+            android:layout_below="@id/suherman"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/sigit"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Program Pascasarjana Program Studi Magister Ilmu Komputer"
+            android:layout_below="@id/sigit"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:id="@+id/pasca"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pasca"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="Dashboard"
+            android:id="@+id/dash"
+            android:onClick="pencet"/>
+
+    </RelativeLayout>
+
+
+
+
+</ScrollView>
