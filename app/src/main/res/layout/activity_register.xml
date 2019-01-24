@@ -13,7 +13,8 @@
         android:text="Register"
         android:textSize="30dp"
         android:gravity="center"
-        android:layout_marginBottom="20dp"/>
+        android:layout_marginBottom="20dp"
+        android:textColor="#2196F3"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -38,7 +39,9 @@
         android:layout_height="wrap_content"
         android:text="Register"
         android:id="@+id/registerButton"
-        android:layout_marginBottom="20dp"/>
+        android:layout_marginBottom="20dp"
+        android:background="#2196F3"
+        android:textColor="#ffffff"/>
 
     <TextView
         android:layout_width="match_parent"

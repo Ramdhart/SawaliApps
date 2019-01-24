@@ -29,7 +29,6 @@ public class Users extends AppCompatActivity {
     ArrayList<String> al = new ArrayList<>();
     int totalUsers = 0;
     ProgressDialog pd;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -97,6 +96,7 @@ public class Users extends AppCompatActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
+
 
         if(totalUsers <=1){
             noUsersText.setVisibility(View.VISIBLE);

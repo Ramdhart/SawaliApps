@@ -4,15 +4,14 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/kete"
+        android:icon="@drawable/bpjs"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/kete"
+        android:roundIcon="@drawable/bpjs"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -47,7 +46,7 @@
         <activity android:name=".Kete3" />
         <activity android:name=".Kete4" />
         <activity android:name=".Kete5" />
-        <activity android:name=".Kete6"></activity>
+        <activity android:name=".Kete6" />
     </application>
 
 </manifest>

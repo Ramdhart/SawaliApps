@@ -2,6 +2,7 @@ package com.jxj.sawaliapps;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
@@ -70,10 +71,12 @@ public class Chat extends AppCompatActivity {
                 String userName = map.get("user").toString();
 
                 if(userName.equals(UserDetails.username)){
-                    addMessageBox(  message, 1);
+                    addMessageBox(  "Anda :\n"+message+"\n", 1);
+
                 }
                 else{
-                    addMessageBox(UserDetails.chatWith + ":\n" + message, 2);
+//                    addMessageBox(UserDetails.chatWith + ":\n" + message, 2);
+                    addMessageBox( UserDetails.chatWith +":\n"+message+"\n", 2);
                 }
             }
 
@@ -117,13 +120,13 @@ public class Chat extends AppCompatActivity {
 
         if(type == 1) {
             lp2.gravity = Gravity.RIGHT;
-            textView.setTextColor(Color.WHITE);
-            textView.setBackgroundResource(R.drawable.my_message);
+            textView.setTextColor(Color.parseColor( "#4CAF50"));
+//            textView.setBackgroundResource(R.drawable.my_message);
         }
         else{
             lp2.gravity = Gravity.LEFT;
-            textView.setTextColor(Color.WHITE);
-            textView.setBackgroundResource(R.drawable.their_message);
+            textView.setTextColor(Color.parseColor("#2196F3"));
+//            textView.setBackgroundResource(R.drawable.their_message);
         }
         textView.setLayoutParams(lp2);
         layout.addView(textView);
